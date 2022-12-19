@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+	<vechicles>
+		<name>Bantha-II cargo skiff</name>
+		<model>Bantha-II</model>
+		<manufacturer>Ubrikkian Industries</manufacturer>
+		<cost_in_credits>8000</cost_in_credits>
+		<length>9.5</length>
+		<max_atmosphering_speed>250</max_atmosphering_speed>
+		<crew>5</crew>
+		<passengers>16</passengers>
+		<cargo_capacity>135000</cargo_capacity>
+		<consumables>1 day</consumables>
+		<vehicle_class>repulsorcraft cargo skiff</vehicle_class>
+		<films>https://swapi.dev/api/films/3/</films>
+		<created>2014-12-18T10:48:03.208000Z</created>
+		<edited>2014-12-20T21:30:21.688000Z</edited>
+		<url>https://swapi.dev/api/vehicles/25/</url>
+	</vechicles>
+	<vechicles>
+		<name>TIE/IN interceptor</name>
+		<model>Twin Ion Engine Interceptor</model>
+		<manufacturer>Sienar Fleet Systems</manufacturer>
+		<cost_in_credits>unknown</cost_in_credits>
+		<length>9.6</length>
+		<max_atmosphering_speed>1250</max_atmosphering_speed>
+		<crew>1</crew>
+		<passengers>0</passengers>
+		<cargo_capacity>75</cargo_capacity>
+		<consumables>2 days</consumables>
+		<vehicle_class>starfighter</vehicle_class>
+		<films>https://swapi.dev/api/films/3/</films>
+		<created>2014-12-18T10:50:28.225000Z</created>
+		<edited>2014-12-20T21:30:21.691000Z</edited>
+		<url>https://swapi.dev/api/vehicles/26/</url>
+	</vechicles>
+	<vechicles>
+		<name>Imperial Speeder Bike</name>
+		<model>74-Z speeder bike</model>
+		<manufacturer>Aratech Repulsor Company</manufacturer>
+		<cost_in_credits>8000</cost_in_credits>
+		<length>3</length>
+		<max_atmosphering_speed>360</max_atmosphering_speed>
+		<crew>1</crew>
+		<passengers>1</passengers>
+		<cargo_capacity>4</cargo_capacity>
+		<consumables>1 day</consumables>
+		<vehicle_class>speeder</vehicle_class>
+		<pilots>https://swapi.dev/api/people/1/</pilots>
+		<pilots>https://swapi.dev/api/people/5/</pilots>
+		<films>https://swapi.dev/api/films/3/</films>
+		<created>2014-12-18T11:20:04.625000Z</created>
+		<edited>2014-12-20T21:30:21.693000Z</edited>
+		<url>https://swapi.dev/api/vehicles/30/</url>
+	</vechicles>
+	<vechicles>
+		<name>Vulture Droid</name>
+		<model>Vulture-class droid starfighter</model>
+		<manufacturer>Haor Chall Engineering, Baktoid Armor Workshop</manufacturer>
+		<cost_in_credits>unknown</cost_in_credits>
+		<length>3.5</length>
+		<max_atmosphering_speed>1200</max_atmosphering_speed>
+		<crew>0</crew>
+		<passengers>0</passengers>
+		<cargo_capacity>0</cargo_capacity>
+		<consumables>none</consumables>
+		<vehicle_class>starfighter</vehicle_class>
+		<films>https://swapi.dev/api/films/4/</films>
+		<films>https://swapi.dev/api/films/6/</films>
+		<created>2014-12-19T17:09:53.584000Z</created>
+		<edited>2014-12-20T21:30:21.697000Z</edited>
+		<url>https://swapi.dev/api/vehicles/33/</url>
+	</vechicles>
+	<vechicles>
+		<name>Multi-Troop Transport</name>
+		<model>Multi-Troop Transport</model>
+		<manufacturer>Baktoid Armor Workshop</manufacturer>
+		<cost_in_credits>138000</cost_in_credits>
+		<length>31</length>
+		<max_atmosphering_speed>35</max_atmosphering_speed>
+		<crew>4</crew>
+		<passengers>112</passengers>
+		<cargo_capacity>12000</cargo_capacity>
+		<consumables>unknown</consumables>
+		<vehicle_class>repulsorcraft</vehicle_class>
+		<films>https://swapi.dev/api/films/4/</films>
+		<created>2014-12-19T17:12:04.400000Z</created>
+		<edited>2014-12-20T21:30:21.700000Z</edited>
+		<url>https://swapi.dev/api/vehicles/34/</url>
+	</vechicles>
+	<vechicles>
+		<name>Armored Assault Tank</name>
+		<model>Armoured Assault Tank</model>
+		<manufacturer>Baktoid Armor Workshop</manufacturer>
+		<cost_in_credits>unknown</cost_in_credits>
+		<length>9.75</length>
+		<max_atmosphering_speed>55</max_atmosphering_speed>
+		<crew>4</crew>
+		<passengers>6</passengers>
+		<cargo_capacity>unknown</cargo_capacity>
+		<consumables>unknown</consumables>
+		<vehicle_class>repulsorcraft</vehicle_class>
+		<films>https://swapi.dev/api/films/4/</films>
+		<created>2014-12-19T17:13:29.799000Z</created>
+		<edited>2014-12-20T21:30:21.703000Z</edited>
+		<url>https://swapi.dev/api/vehicles/35/</url>
+	</vechicles>
+	<vechicles>
+		<name>Single Trooper Aerial Platform</name>
+		<model>Single Trooper Aerial Platform</model>
+		<manufacturer>Baktoid Armor Workshop</manufacturer>
+		<cost_in_credits>2500</cost_in_credits>
+		<length>2</length>
+		<max_atmosphering_speed>400</max_atmosphering_speed>
+		<crew>1</crew>
+		<passengers>0</passengers>
+		<cargo_capacity>none</cargo_capacity>
+		<consumables>none</consumables>
+		<vehicle_class>repulsorcraft</vehicle_class>
+		<films>https://swapi.dev/api/films/4/</films>
+		<created>2014-12-19T17:15:09.511000Z</created>
+		<edited>2014-12-20T21:30:21.705000Z</edited>
+		<url>https://swapi.dev/api/vehicles/36/</url>
+	</vechicles>
+	<vechicles>
+		<name>C-9979 landing craft</name>
+		<model>C-9979 landing craft</model>
+		<manufacturer>Haor Chall Engineering</manufacturer>
+		<cost_in_credits>200000</cost_in_credits>
+		<length>210</length>
+		<max_atmosphering_speed>587</max_atmosphering_speed>
+		<crew>140</crew>
+		<passengers>284</passengers>
+		<cargo_capacity>1800000</cargo_capacity>
+		<consumables>1 day</consumables>
+		<vehicle_class>landing craft</vehicle_class>
+		<films>https://swapi.dev/api/films/4/</films>
+		<created>2014-12-19T17:20:36.373000Z</created>
+		<edited>2014-12-20T21:30:21.707000Z</edited>
+		<url>https://swapi.dev/api/vehicles/37/</url>
+	</vechicles>
+	<vechicles>
+		<name>Tribubble bongo</name>
+		<model>Tribubble bongo</model>
+		<manufacturer>Otoh Gunga Bongameken Cooperative</manufacturer>
+		<cost_in_credits>unknown</cost_in_credits>
+		<length>15</length>
+		<max_atmosphering_speed>85</max_atmosphering_speed>
+		<crew>1</crew>
+		<passengers>2</passengers>
+		<cargo_capacity>1600</cargo_capacity>
+		<consumables>unknown</consumables>
+		<vehicle_class>submarine</vehicle_class>
+		<pilots>https://swapi.dev/api/people/10/</pilots>
+		<pilots>https://swapi.dev/api/people/32/</pilots>
+		<films>https://swapi.dev/api/films/4/</films>
+		<created>2014-12-19T17:37:37.924000Z</created>
+		<edited>2014-12-20T21:30:21.710000Z</edited>
+		<url>https://swapi.dev/api/vehicles/38/</url>
+	</vechicles>
+	<vechicles>
+		<name>Sith speeder</name>
+		<model>FC-20 speeder bike</model>
+		<manufacturer>Razalon</manufacturer>
+		<cost_in_credits>4000</cost_in_credits>
+		<length>1.5</length>
+		<max_atmosphering_speed>180</max_atmosphering_speed>
+		<crew>1</crew>
+		<passengers>0</passengers>
+		<cargo_capacity>2</cargo_capacity>
+		<consumables>unknown</consumables>
+		<vehicle_class>speeder</vehicle_class>
+		<pilots>https://swapi.dev/api/people/44/</pilots>
+		<films>https://swapi.dev/api/films/4/</films>
+		<created>2014-12-20T10:09:56.095000Z</created>
+		<edited>2014-12-20T21:30:21.712000Z</edited>
+		<url>https://swapi.dev/api/vehicles/42/</url>
+	</vechicles>
+</root>

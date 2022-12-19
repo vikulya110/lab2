@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+	<vechicles>
+		<name>Zephyr-G swoop bike</name>
+		<model>Zephyr-G swoop bike</model>
+		<manufacturer>Mobquet Swoops and Speeders</manufacturer>
+		<cost_in_credits>5750</cost_in_credits>
+		<length>3.68</length>
+		<max_atmosphering_speed>350</max_atmosphering_speed>
+		<crew>1</crew>
+		<passengers>1</passengers>
+		<cargo_capacity>200</cargo_capacity>
+		<consumables>none</consumables>
+		<vehicle_class>repulsorcraft</vehicle_class>
+		<pilots>https://swapi.dev/api/people/11/</pilots>
+		<films>https://swapi.dev/api/films/5/</films>
+		<created>2014-12-20T16:24:16.026000Z</created>
+		<edited>2014-12-20T21:30:21.714000Z</edited>
+		<url>https://swapi.dev/api/vehicles/44/</url>
+	</vechicles>
+	<vechicles>
+		<name>Koro-2 Exodrive airspeeder</name>
+		<model>Koro-2 Exodrive airspeeder</model>
+		<manufacturer>Desler Gizh Outworld Mobility Corporation</manufacturer>
+		<cost_in_credits>unknown</cost_in_credits>
+		<length>6.6</length>
+		<max_atmosphering_speed>800</max_atmosphering_speed>
+		<crew>1</crew>
+		<passengers>1</passengers>
+		<cargo_capacity>80</cargo_capacity>
+		<consumables>unknown</consumables>
+		<vehicle_class>airspeeder</vehicle_class>
+		<pilots>https://swapi.dev/api/people/70/</pilots>
+		<films>https://swapi.dev/api/films/5/</films>
+		<created>2014-12-20T17:17:33.526000Z</created>
+		<edited>2014-12-20T21:30:21.716000Z</edited>
+		<url>https://swapi.dev/api/vehicles/45/</url>
+	</vechicles>
+	<vechicles>
+		<name>XJ-6 airspeeder</name>
+		<model>XJ-6 airspeeder</model>
+		<manufacturer>Narglatch AirTech prefabricated kit</manufacturer>
+		<cost_in_credits>unknown</cost_in_credits>
+		<length>6.23</length>
+		<max_atmosphering_speed>720</max_atmosphering_speed>
+		<crew>1</crew>
+		<passengers>1</passengers>
+		<cargo_capacity>unknown</cargo_capacity>
+		<consumables>unknown</consumables>
+		<vehicle_class>airspeeder</vehicle_class>
+		<pilots>https://swapi.dev/api/people/11/</pilots>
+		<films>https://swapi.dev/api/films/5/</films>
+		<created>2014-12-20T17:19:19.991000Z</created>
+		<edited>2014-12-20T21:30:21.719000Z</edited>
+		<url>https://swapi.dev/api/vehicles/46/</url>
+	</vechicles>
+	<vechicles>
+		<name>LAAT/i</name>
+		<model>Low Altitude Assault Transport/infrantry</model>
+		<manufacturer>Rothana Heavy Engineering</manufacturer>
+		<cost_in_credits>unknown</cost_in_credits>
+		<length>17.4</length>
+		<max_atmosphering_speed>620</max_atmosphering_speed>
+		<crew>6</crew>
+		<passengers>30</passengers>
+		<cargo_capacity>170</cargo_capacity>
+		<consumables>unknown</consumables>
+		<vehicle_class>gunship</vehicle_class>
+		<films>https://swapi.dev/api/films/5/</films>
+		<films>https://swapi.dev/api/films/6/</films>
+		<created>2014-12-20T18:01:21.014000Z</created>
+		<edited>2014-12-20T21:30:21.723000Z</edited>
+		<url>https://swapi.dev/api/vehicles/50/</url>
+	</vechicles>
+	<vechicles>
+		<name>LAAT/c</name>
+		<model>Low Altitude Assault Transport/carrier</model>
+		<manufacturer>Rothana Heavy Engineering</manufacturer>
+		<cost_in_credits>unknown</cost_in_credits>
+		<length>28.82</length>
+		<max_atmosphering_speed>620</max_atmosphering_speed>
+		<crew>1</crew>
+		<passengers>0</passengers>
+		<cargo_capacity>40000</cargo_capacity>
+		<consumables>unknown</consumables>
+		<vehicle_class>gunship</vehicle_class>
+		<films>https://swapi.dev/api/films/5/</films>
+		<created>2014-12-20T18:02:46.802000Z</created>
+		<edited>2014-12-20T21:30:21.725000Z</edited>
+		<url>https://swapi.dev/api/vehicles/51/</url>
+	</vechicles>
+	<vechicles>
+		<name>AT-TE</name>
+		<model>All Terrain Tactical Enforcer</model>
+		<manufacturer>Rothana Heavy Engineering, Kuat Drive Yards</manufacturer>
+		<cost_in_credits>unknown</cost_in_credits>
+		<length>13.2</length>
+		<max_atmosphering_speed>60</max_atmosphering_speed>
+		<crew>6</crew>
+		<passengers>36</passengers>
+		<cargo_capacity>10000</cargo_capacity>
+		<consumables>21 days</consumables>
+		<vehicle_class>walker</vehicle_class>
+		<films>https://swapi.dev/api/films/5/</films>
+		<films>https://swapi.dev/api/films/6/</films>
+		<created>2014-12-20T18:10:07.560000Z</created>
+		<edited>2014-12-20T21:30:21.728000Z</edited>
+		<url>https://swapi.dev/api/vehicles/53/</url>
+	</vechicles>
+	<vechicles>
+		<name>SPHA</name>
+		<model>Self-Propelled Heavy Artillery</model>
+		<manufacturer>Rothana Heavy Engineering</manufacturer>
+		<cost_in_credits>unknown</cost_in_credits>
+		<length>140</length>
+		<max_atmosphering_speed>35</max_atmosphering_speed>
+		<crew>25</crew>
+		<passengers>30</passengers>
+		<cargo_capacity>500</cargo_capacity>
+		<consumables>7 days</consumables>
+		<vehicle_class>walker</vehicle_class>
+		<films>https://swapi.dev/api/films/5/</films>
+		<created>2014-12-20T18:12:32.315000Z</created>
+		<edited>2014-12-20T21:30:21.731000Z</edited>
+		<url>https://swapi.dev/api/vehicles/54/</url>
+	</vechicles>
+	<vechicles>
+		<name>Flitknot speeder</name>
+		<model>Flitknot speeder</model>
+		<manufacturer>Huppla Pasa Tisc Shipwrights Collective</manufacturer>
+		<cost_in_credits>8000</cost_in_credits>
+		<length>2</length>
+		<max_atmosphering_speed>634</max_atmosphering_speed>
+		<crew>1</crew>
+		<passengers>0</passengers>
+		<cargo_capacity>unknown</cargo_capacity>
+		<consumables>unknown</consumables>
+		<vehicle_class>speeder</vehicle_class>
+		<pilots>https://swapi.dev/api/people/67/</pilots>
+		<films>https://swapi.dev/api/films/5/</films>
+		<created>2014-12-20T18:15:20.312000Z</created>
+		<edited>2014-12-20T21:30:21.735000Z</edited>
+		<url>https://swapi.dev/api/vehicles/55/</url>
+	</vechicles>
+	<vechicles>
+		<name>Neimoidian shuttle</name>
+		<model>Sheathipede-class transport shuttle</model>
+		<manufacturer>Haor Chall Engineering</manufacturer>
+		<cost_in_credits>unknown</cost_in_credits>
+		<length>20</length>
+		<max_atmosphering_speed>880</max_atmosphering_speed>
+		<crew>2</crew>
+		<passengers>6</passengers>
+		<cargo_capacity>1000</cargo_capacity>
+		<consumables>7 days</consumables>
+		<vehicle_class>transport</vehicle_class>
+		<films>https://swapi.dev/api/films/5/</films>
+		<films>https://swapi.dev/api/films/6/</films>
+		<created>2014-12-20T18:25:44.912000Z</created>
+		<edited>2014-12-20T21:30:21.739000Z</edited>
+		<url>https://swapi.dev/api/vehicles/56/</url>
+	</vechicles>
+	<vechicles>
+		<name>Geonosian starfighter</name>
+		<model>Nantex-class territorial defense</model>
+		<manufacturer>Huppla Pasa Tisc Shipwrights Collective</manufacturer>
+		<cost_in_credits>unknown</cost_in_credits>
+		<length>9.8</length>
+		<max_atmosphering_speed>20000</max_atmosphering_speed>
+		<crew>1</crew>
+		<passengers>0</passengers>
+		<cargo_capacity>unknown</cargo_capacity>
+		<consumables>unknown</consumables>
+		<vehicle_class>starfighter</vehicle_class>
+		<films>https://swapi.dev/api/films/5/</films>
+		<created>2014-12-20T18:34:12.541000Z</created>
+		<edited>2014-12-20T21:30:21.742000Z</edited>
+		<url>https://swapi.dev/api/vehicles/57/</url>
+	</vechicles>
+</root>
